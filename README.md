@@ -4,7 +4,7 @@
 ### NASA World Wind
 https://github.com/NASAWorldWind/WorldWindJava/releases (worldwind-v2.1.0.zip)
 
-Na IntelliJ IDEA, em File > Project Structure > Project Setings > Libraries, adicionar
+Na IntelliJ IDEA, em File > Project Structure > Project Setttings > Libraries, adicionar
 
 gdal.jar
 gluegen-rt.jar
