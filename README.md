@@ -1,5 +1,7 @@
 # sescomp-astro-app
 
+![astroapp_scd2.png](imgs/astroapp_scd2.png)
+
 ## Requisitos
 ### NASA World Wind
 https://github.com/NASAWorldWind/WorldWindJava/releases (worldwind-v2.1.0.zip)
